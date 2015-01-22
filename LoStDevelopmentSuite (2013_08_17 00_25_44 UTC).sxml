@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='cp1252'?>
+<sepy-project cvs='0' svn='0' version='1.6.6' name='LoStDevelopmentSuite.sxml' id='{382b0549-edf7-4be7-bdb7-d80cb3744bcb}'>
+  <!--project configurations-->
+  <configuration/>
+  <linked>
+    <link cls='0' type='2' name='CodeBase' filters='*.*' id='{f9059cbb-63ef-4416-b7ed-0c97d1136d22}'>
+      <location>
+        <![CDATA[..\..\..]]>
+      </location>
+      <expanded>
+        <element pathname='As'/>
+        <element pathname='As\Classes'/>
+        <element pathname='As\Classes\com'/>
+      </expanded>
+    </link>
+  </linked>
+</sepy-project>
